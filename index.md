@@ -6,7 +6,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Pracly v3](demo.pracly.com) - 2017 to Present
 **Description:**
-**Status:** Live. Used by international B2B customers
+**Status:** Live. Used by international B2B customers\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -14,7 +14,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Pracly v2 - 2014 to 2017
 **Description:**
-**Status:** Parked. Pivoted to a different model after 3 years running in production.
+**Status:** Parked. Pivoted to a different model after 3 years running in production.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -22,7 +22,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Pracly v1 - 2013 to 2014
 **Description:**
-**Status:** Abandoned. Switched to a different tech stack.
+**Status:** Abandoned. Switched to a different tech stack.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -30,7 +30,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Gymmy landing page - 2015
 **Description:**
-**Status:** Shut down 1 year after launch.
+**Status:** Shut down 1 year after launch.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -38,7 +38,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Gymmy v1 - 2015
 **Description:**
-**Status:** Shut down 1 year after launch.
+**Status:** Shut down 1 year after launch.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -46,7 +46,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Fraction.pro](http://www.fraction.pro/) - 2017
 **Description:**
-**Status:** Live. Being used internally.
+**Status:** Live. Being used internally.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -54,7 +54,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [CFTracker](https://cftracker.herokuapp.com/) - 2015
 **Description:**
-**Status:** Abandoned.
+**Status:** Abandoned.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -62,7 +62,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [EDiaries](https://ediaries.herokuapp.com/) - 2017
 **Description:**
-**Status:** Live. Being used by early adopters.
+**Status:** Live. Being used by early adopters.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -70,7 +70,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [LookingForFunding](https://lookingforfunding.herokuapp.com/) - 2016 & 2018
 **Description:**
-**Status:** Abandoned
+**Status:** Abandoned\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -78,7 +78,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Praclaw](https://praclaw.herokuapp.com/) - 2015
 **Description:**
-**Status:** Abandoned.
+**Status:** Abandoned.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -86,7 +86,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Progue](https://progue.herokuapp.com/) - 2015 & 2017
 **Description:**
-**Status:** Early prototype
+**Status:** Early prototype\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -94,7 +94,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Timelog v1](https://progue-scheduler.herokuapp.com/) - 2017 & 2019
 **Description:**
-**Status:** Functional prototype
+**Status:** Functional prototype\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -102,7 +102,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Timelog v2](http://timelog.me) - 2019 to Present
 **Description:** 
-**Status:** UI/UX design.
+**Status:** UI/UX design.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -110,7 +110,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Wordgraph](http://www.wordgraph.me/) - 2019 to Present
 **Description:**
-**Status:** MVP. Being used by early adopters.
+**Status:** MVP. Being used by early adopters.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -118,7 +118,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [MovieMyx](https://shielded-caverns-4103.herokuapp.com/) - 2015
 **Description:**
-**Status:** MVP. Parked.
+**Status:** MVP. Parked.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -126,7 +126,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Weblist](https://weblisto.herokuapp.com/) - 2019
 **Description:**
-**Status:** Development.
+**Status:** Development.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -134,7 +134,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### WorkDoc
 **Description:**
-**Status:** Development.
+**Status:** Development.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -142,7 +142,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Iris](https://newex.herokuapp.com/) - 2017 & 2019
 **Description:**
-**Status:** Early prototype.
+**Status:** Early prototype.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -150,7 +150,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### TheWeddingCompany
 **Description:**
-**Status:** Abandoned.
+**Status:** Abandoned.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -158,7 +158,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Witkart
 **Description:**
-**Status:** Abandoned.
+**Status:** Abandoned.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -166,7 +166,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### <Confidential>
 **Description:**
-**Status:** MVP.
+**Status:** MVP.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -174,7 +174,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [FooDelivery](https://foodeliverysg.herokuapp.com/) - 2015
 **Description:**
-**Status:** Functional prototype. Parked.
+**Status:** Functional prototype. Parked.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -182,7 +182,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### CustomerKonnect
 **Description:**
-**Status:** Abandoned.
+**Status:** Abandoned.\
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
