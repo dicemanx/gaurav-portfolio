@@ -1,8 +1,30 @@
-## Welcome to GitHub Pages
+## Hi. I am Gaurav Mittal.
 
-You can use the [editor on GitHub](https://github.com/dicemanx/gaurav-portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Below are some software products that I've built in recent years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+###[Pracly v3](demo.pracly.com)
+**Description: **
+**Tech: **
+**Team: **
+**Role & Responsibilities: **
+
+
+###Pracly v2
+**Description: **
+**Tech: **
+**Team: **
+**Role & Responsibilities: **
+
+
+###Pracly v1
+**Description: **
+**Tech: **
+**Team: **
+**Role & Responsibilities: **
+
+
+
 
 ### Markdown
 
