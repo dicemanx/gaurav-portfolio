@@ -3,11 +3,11 @@
 Below are some software products that I've built in recent years.
 
 
-###[Pracly v3](demo.pracly.com)
-**Description: **
-**Tech: **
-**Team: **
-**Role & Responsibilities: **
+###[Pracly v3](demo.pracly.com)\
+**Description: **\
+**Tech: **\
+**Team: **\
+**Role & Responsibilities: **\
 
 
 ###Pracly v2
