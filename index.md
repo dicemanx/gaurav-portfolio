@@ -1,7 +1,7 @@
 
 ## Hi. I am Gaurav Mittal.
 
-Below are some software products that I've built from scratch in recent years.
+I build software products and my focus areas are the functionality and backend implementation of products. Below are a few that I've built from scratch in recent years.
 
 ---
 ### [Pracly v3](demo.pracly.com) - 2017 to Present
