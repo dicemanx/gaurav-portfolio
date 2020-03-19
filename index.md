@@ -6,7 +6,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Pracly v3](demo.pracly.com) - 2017 to Present
 **Description:**
-**Status:** Live. Used by international B2B customers\
+**Status:** Live. Used by international B2B customers  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -14,7 +14,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Pracly v2 - 2014 to 2017
 **Description:**
-**Status:** Parked. Pivoted to a different model after 3 years running in production.\
+**Status:** Parked. Pivoted to a different model after 3 years running in production.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -22,7 +22,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Pracly v1 - 2013 to 2014
 **Description:**
-**Status:** Abandoned. Switched to a different tech stack.\
+**Status:** Abandoned. Switched to a different tech stack.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -30,7 +30,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Gymmy landing page - 2015
 **Description:**
-**Status:** Shut down 1 year after launch.\
+**Status:** Shut down 1 year after launch.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -38,7 +38,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### Gymmy v1 - 2015
 **Description:**
-**Status:** Shut down 1 year after launch.\
+**Status:** Shut down 1 year after launch.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -46,7 +46,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [Fraction.pro](http://www.fraction.pro/) - 2017
 **Description:**
-**Status:** Live. Being used internally.\
+**Status:** Live. Being used internally.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -54,7 +54,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [CFTracker](https://cftracker.herokuapp.com/) - 2015
 **Description:**
-**Status:** Abandoned.\
+**Status:** Abandoned.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -62,7 +62,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [EDiaries](https://ediaries.herokuapp.com/) - 2017
 **Description:**
-**Status:** Live. Being used by early adopters.\
+**Status:** Live. Being used by early adopters.  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
@@ -70,7 +70,7 @@ Below are some software products that I've built from scratch in recent years.
 ---
 ### [LookingForFunding](https://lookingforfunding.herokuapp.com/) - 2016 & 2018
 **Description:**
-**Status:** Abandoned\
+**Status:** Abandoned  
 **Tech:**
 **Team:**
 **Role & Responsibilities:**
