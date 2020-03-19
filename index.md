@@ -148,14 +148,6 @@ I build software products and my focus areas are the functionality and backend i
 **Role & Responsibilities:**  
 
 ---
-### TheWeddingCompany
-**Description:** A platform for to facilitate all the services required in Indian weddings. Started with focusing on photographers and make-up artists.  
-**Status:** Parked.  
-**Tech:**  
-**Team:**  
-**Role & Responsibilities:**  
-
----
 ### Witkart
 **Description:** A product which analyses tweets and posts by real end users of physical products and comes up with a sentiment score for that particular product. Like Metacritic for physical products.  
 **Status:** Parked.  
