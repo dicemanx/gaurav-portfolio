@@ -6,7 +6,7 @@
 I build software products and my focus areas are the product functionality, software architecture and backend implementation. Below are a few that I've built from scratch in recent years.
 
 ---
-### [Pracly v3](demo.pracly.com) - 2017 to Present
+### [Pracly Pro](demo.pracly.com) - 2017 to Present
 **Description:** A mini-ERP used by startup incubators, accelerators and early stage venture funds to do 3 things: Monitor their portfolio companies, Have quality mentor-founder interactions and to run operations and program management. The product has 10 main modules of functionality to achieve this. All the functionality is also exposed via APIs.
 **Scale:** Used by multiple international B2B customers.  
 **Tech:**  
