@@ -7,8 +7,8 @@ I build software products and my focus areas are the product functionality, soft
 
 ---
 ### [Pracly Pro](demo.pracly.com) - 2017 to Present
-**Description:** A mini-ERP used by startup incubators, accelerators and early stage venture funds to do 3 things: Monitor their portfolio companies, Have quality mentor-founder interactions and to run operations and program management. The product has 10 main modules of functionality to achieve this. All the functionality is also exposed via APIs.
-**Scale:** Used by multiple international B2B customers.  
+**Description:** A mini-ERP used by startup incubators, accelerators and early stage venture funds to do 3 things: Monitor their portfolio companies, Have quality mentor-founder interactions and to run operations and program management. The product has 10 core modules to achieve this. All the functionality is also exposed via APIs.  
+**Scale:** Used by multiple international B2B customers. 50 to 100 users per customer.  
 **Tech:**  
 **Team:** Me, 1 Frontend developer, 1 Designer, 1 Business person   
 **Role & Responsibilities:**  
@@ -30,15 +30,8 @@ I build software products and my focus areas are the product functionality, soft
 **Role & Responsibilities:**  
 
 ---
-### Gymmy landing page - 2015
-**Description:** A landing page showcasing the idea and capturing interested users's emails.  
-**Scale:** Landing page. 100 to 1000 visitors per day.  
-**Tech:**  
-**Team:**  Me, 1 Designer, 1 Business person  
-**Role & Responsibilities:**  
-
----
 ### Gymmy v1 - 2015
+**Landing page:**  
 **Description:** A multipass system where one membership gives a user access to all the gyms in our network. Fully functional with payments integration.  
 **Scale:** MVP
 **Tech:**  
@@ -47,16 +40,14 @@ I build software products and my focus areas are the product functionality, soft
 
 ---
 ### [Fraction.pro](http://www.fraction.pro/) - 2017
-**Description:** A tool developed to track equity holdings in startups across funding rounds. Developed for internal use but can also be used by any other startups or investors.  
-**Scale:** Used internally. 
+**Description:** A solution developed to track equity holdings in startups across funding rounds. Developed for internal use but can also be used by any other startups or investors.  
 **Tech:**  
 **Team:**  Me, 1 Functional expert, 1 Business person  
 **Role & Responsibilities:**  
 
 ---
 ### [CFTracker](https://cftracker.herokuapp.com/) - 2015
-**Description:** A tool developed for internal use to track crowd funding contributions for one of our projects.   
-**Scale:** Used internally.  
+**Description:** A tool developed for internal use to track crowd funding contributions for one of our projects.
 **Tech:**  
 **Team:**  Me  
 **Role & Responsibilities:**  
@@ -64,15 +55,7 @@ I build software products and my focus areas are the product functionality, soft
 ---
 ### [EDiaries](https://ediaries.herokuapp.com/) - 2017
 **Description:** A place to record items in an organized way along with images and other useful info about each item.  
-**Scale:** Used by less than a dozen early adopters.
-**Tech:**  
-**Team:**  Me  
-**Role & Responsibilities:**  
-
----
-### [LookingForFunding](https://lookingforfunding.herokuapp.com/) - 2016 & 2018
-**Description:**  
-**Scale:** Project abandoned during development.
+**Scale:** Used by less than a dozen early adopters.  
 **Tech:**  
 **Team:**  Me  
 **Role & Responsibilities:**  
@@ -82,7 +65,7 @@ I build software products and my focus areas are the product functionality, soft
 **Description:** A platform for people to get on demand advice on legal issues they may be facing, from lawyers who charge a fee for their consultations. Bringing the legal consulting industry online.  
 **Scale:** MVP.  
 **Tech:**  
-**Team:**  Me, 1 Business person
+**Team:**  Me, 1 Business person  
 **Role & Responsibilities:**  
 
 ---
@@ -162,7 +145,7 @@ I build software products and my focus areas are the product functionality, soft
 **Description:** A platform for people to vent anonymously about other people.  
 **Scale:** MVP.  
 **Tech:**  
-**Team:**  Me, 2 Business people  
+**Team:**  Me, 2 Business stakeholders   
 **Role & Responsibilities:**  
 
 ---
