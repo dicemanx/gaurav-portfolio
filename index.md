@@ -61,7 +61,7 @@
 **Role & Responsibilities:**  
 
 ---
-### [Timelog v1](https://progue-scheduler.herokuapp.com/) - 2017 & 2019
+### [Timelog](https://progue-scheduler.herokuapp.com/) - 2017 & 2019
 **Description:** A tool to manage the scheduling of calls or meetings. Only available slots of a person are shown, out of which one can be picked and the call/meeting is then scheduled.  
 **Scale:** Functional prototype  
 **Tech:**  
@@ -69,7 +69,7 @@
 **Role & Responsibilities:**  
 
 ---
-### [Timelog v2](http://timelog.me) - 2019 to Present
+### [Timelog (pivoted)](http://timelog.me) - 2019 to Present
 **Description:**  An improved version of Timelog with a slightly different workflow and feature set.  
 **Scale:** Under development. UI/UX design phase.  
 **Tech:**  
