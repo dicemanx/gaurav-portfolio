@@ -1,8 +1,5 @@
 
 
-
-## Hi. I am Gaurav Mittal.
-
 I build software products and my focus areas are the product functionality, software architecture and backend implementation. Below are a few that I've built from scratch in recent years.
 
 ---
