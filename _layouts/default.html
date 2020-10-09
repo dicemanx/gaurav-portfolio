@@ -12,6 +12,12 @@
   <body>
 
     <header>
+      <style>
+        header h1:before {
+        content:"";
+        display:none;
+        }
+      </style>
       <br><br>
       <div class="container">        
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
