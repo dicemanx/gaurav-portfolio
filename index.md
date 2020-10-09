@@ -30,8 +30,7 @@ I build software products and my focus areas are the product functionality, soft
 **Role & Responsibilities:**  
 
 ---
-### Gymmy v1 - 2015
-**Landing page:**  
+### Gymmy - 2015
 **Description:** A multipass system where one membership gives a user access to all the gyms in our network. Fully functional with payments integration.  
 **Scale:** MVP
 **Tech:**  
