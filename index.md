@@ -4,7 +4,6 @@
 **Scale:** Used by multiple international B2B customers. 50 to 100 users per customer.  
 **Tech:**  Ruby on Rails, PostgreSQL, HTML, CSS, Vue.js  
 **Team:** Me, 1 Frontend developer, 1 Designer, 1 Business person   
-**Role & Responsibilities:**  
 
 ---
 ### Pracly - 2013 to 2017
@@ -12,45 +11,39 @@
 **Scale:** Upto 7 calls scheduled per day on the platform. 5000+ visitors per day.  
 **Tech:**  Ruby on Rails, MySQL, PostgreSQL, HTML, CSS, Javascript  
 **Team:**  Me, 1 Frontend developer, 1 Designer, 2 Business people  
-**Role & Responsibilities:**  
 
 ---
 ### Gymmy - 2015
 **Description:** A multipass system where one membership gives a user access to all the gyms in our network. Fully functional with payments integration.  
 **Scale:** MVP  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
-**Team:** Me, 1 Designer, 1 Business person  
-**Role & Responsibilities:**  
+**Team:** Me, 1 Designer, 1 Business person   
 
 ---
 ### [Fraction.pro](http://www.fraction.pro/) - 2017
 **Description:** A solution developed to track equity holdings in startups across funding rounds. Developed for internal use but can also be used by any other startups or investors.  
 **Tech:**  Ruby on Rails, HTML, CSS  
-**Team:**  Me, 1 Functional expert, 1 Business person  
-**Role & Responsibilities:**  
+**Team:**  Me, 1 Functional expert, 1 Business person    
 
 ---
 ### [CFTracker](https://cftracker.herokuapp.com/) - 2015
 **Description:** A tool developed for internal use to track crowd funding contributions for one of our projects.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me  
-**Role & Responsibilities:**  
 
 ---
 ### [EDiaries](https://ediaries.herokuapp.com/) - 2017
 **Description:** A place to record items in an organized way along with images and other useful info about each item.  
 **Scale:** Used by less than a dozen early adopters.  
 **Tech:**  Ruby on Rails, HTML, CSS  
-**Team:**  Me  
-**Role & Responsibilities:**  
+**Team:**  Me   
 
 ---
 ### [Praclaw](https://praclaw.herokuapp.com/) - 2015
 **Description:** A platform for people to get on demand advice on legal issues they may be facing, from lawyers who charge a fee for their consultations. Bringing the legal consulting industry online.  
 **Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
-**Team:**  Me, 1 Business person  
-**Role & Responsibilities:**  
+**Team:**  Me, 1 Business person   
 
 ---
 ### [Progue](https://progue.herokuapp.com/) - 2015 & 2017
@@ -58,7 +51,6 @@
 **Scale:** Under development.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me, 1 Business person  
-**Role & Responsibilities:**  
 
 ---
 ### [Timelog](https://progue-scheduler.herokuapp.com/) - 2017 & 2019
@@ -66,15 +58,13 @@
 **Scale:** Functional prototype  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
 **Team:**  Me, 1 Business person  
-**Role & Responsibilities:**  
 
 ---
 ### [Timelog (pivoted)](http://timelog.me) - 2019 to Present
 **Description:**  An improved version of Timelog with a slightly different workflow and feature set.  
 **Scale:** Under development. UI/UX design phase.  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
-**Team:**  Me, 1 Designer, 1 Business person    
-**Role & Responsibilities:**  
+**Team:**  Me, 1 Designer, 1 Business person     
 
 ---
 ### [Wordgraph](http://www.wordgraph.me/) - 2019 to Present
@@ -82,23 +72,20 @@
 **Scale:** Being used by 10 to 100 early adopters.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  1 Developer, 1 Designer  
-**Role & Responsibilities:**  
 
 ---
 ### [MovieMyx](https://shielded-caverns-4103.herokuapp.com/) - 2015
 **Description:** A list of people's favorite movies.  
 **Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS  
-**Team:**  Me, 1 Frontend developer   
-**Role & Responsibilities:**  
+**Team:**  Me, 1 Frontend developer     
 
 ---
 ### [Weblist](https://weblisto.herokuapp.com/) - 2019
 **Description:** A tool to create and manage lists of any kind. And also do operations like plus and minus on those lists.  
 **Scale:** Under development.  
 **Tech:**  Ruby on Rails, HTML, CSS  
-**Team:**  Me  
-**Role & Responsibilities:**  
+**Team:**  Me    
 
 ---
 ### WorkDoc
@@ -106,23 +93,20 @@
 **Scale:** Under development.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me, 1 Business person  
-**Role & Responsibilities:**  
 
 ---
 ### [Iris](https://newex.herokuapp.com/) - 2017 & 2019
 **Description:** An app which lets a user automatically save money every time they spend money; by tracking their spends and transferring a percentage of each spend to an investment account.  
 **Scale:** Early prototype.  
 **Tech:**  Ruby on Rails, HTML, CSS, Figma  
-**Team:**  Me  
-**Role & Responsibilities:**  
+**Team:**  Me    
 
 ---
 ### Witkart
 **Description:** A product which analyses tweets and posts by real end users of physical products and comes up with a sentiment score for that particular product. Like Metacritic for physical products.  
 **Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS  
-**Team:**  Me  
-**Role & Responsibilities:**  
+**Team:**  Me   
 
 ---
 ### <Confidential>
@@ -130,7 +114,6 @@
 **Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
 **Team:**  Me, 2 Business stakeholders   
-**Role & Responsibilities:**  
 
 ---
 ### [FooDelivery](https://foodeliverysg.herokuapp.com/) - 2015
@@ -138,7 +121,6 @@
 **Scale:** Functional prototype.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me  
-**Role & Responsibilities:**  
 
 ---
 ### CustomerKonnect
@@ -146,15 +128,13 @@
 **Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me, 1 Business person  
-**Role & Responsibilities:**  
 
 ---
 ### Business Intelligence Implementation - 2018
 **Description:** Created a Business Intelligence implementation for a medium sized enterprise. Apart from financial graphs and projections, it served a full suite of analytics about customers, products, etc.  
 **Scale:** Used organization wide at a company with 5 to 10 million USD in annual revenue  
 **Tech:**  Tableau  
-**Team:**  Me, 2 Business people, 1 Functional expert  
-**Role & Responsibilities:**  
+**Team:**  Me, 2 Business people, 1 Functional expert   
 
 ---
 ### Shipmart - 2019
@@ -162,6 +142,5 @@
 **Scale:** Visual prototype  
 **Tech:**  Figma  
 **Team:**  Me, 1 Designer, 1 Functional expert    
-**Role & Responsibilities:**  
 
 ---
