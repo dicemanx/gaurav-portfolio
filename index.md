@@ -1,8 +1,4 @@
 
-
-I build software products and my focus areas are the product functionality, software architecture and backend implementation. Below are a few that I've built from scratch in recent years.
-
----
 ### [Pracly Pro](demo.pracly.com) - 2017 to Present
 **Description:** A mini-ERP used by startup incubators, accelerators and early stage venture funds to do 3 things: Monitor their portfolio companies, Have quality mentor-founder interactions and to run operations and program management. The product has 10 core modules to achieve this. All the functionality is also exposed via APIs.  
 **Scale:** Used by multiple international B2B customers. 50 to 100 users per customer.  
@@ -11,19 +7,11 @@ I build software products and my focus areas are the product functionality, soft
 **Role & Responsibilities:**  
 
 ---
-### Pracly v2 - 2014 to 2017
+### Pracly - 2013 to 2017
 **Description:** A platform for startup founders to get advice from domain experts, specific to their current plight. Main parts of the product are profiles of domain experts, call scheduling workflow, integration with telephony service providers, messaging and domain to expert mapping.  
 **Scale:** Upto 7 calls scheduled per day on the platform. 5000+ visitors per day.
 **Tech:**  
 **Team:**  Me, 1 Frontend developer, 1 Designer, 2 Business people  
-**Role & Responsibilities:**  
-
----
-### Pracly v1 - 2013 to 2014
-**Description:** A platform for startup founders to get advice from domain experts, specific to their current plight. Main parts of the product are profiles of domain experts, call scheduling workflow, integration with telephony service providers, messaging and domain to expert mapping.  
-**Scale:** Upto 7 calls scheduled per day on the platform. 5000+ visitors per day. 
-**Tech:**  
-**Team:**  Me, 1 Frontend developer, 2 Business people  
 **Role & Responsibilities:**  
 
 ---
