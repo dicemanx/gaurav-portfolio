@@ -119,7 +119,7 @@
 ---
 ### Witkart
 **Description:** A product which analyses tweets and posts by real end users of physical products and comes up with a sentiment score for that particular product. Like Metacritic for physical products.  
-**Scale:** MVP. 
+**Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me  
 **Role & Responsibilities:**  
