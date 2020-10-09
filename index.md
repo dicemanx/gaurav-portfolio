@@ -13,7 +13,7 @@
 **Team:**  Me, 1 Frontend developer, 1 Designer, 2 Business people  
 
 ---
-### Gymmy - 2015
+### [Gymmy](https://gymmyhq.herokuapp.com/) - 2015
 **Description:** A multipass system where one membership gives a user access to all the gyms in our network. Fully functional with payments integration.  
 **Scale:** MVP  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
