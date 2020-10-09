@@ -109,7 +109,7 @@
 **Team:**  Me   
 
 ---
-### <Confidential>
+### Confidential
 **Description:** A platform for people to vent anonymously about other people.  
 **Scale:** MVP.  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
