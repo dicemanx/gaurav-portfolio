@@ -20,7 +20,7 @@
 **Team:** Me, 1 Designer, 1 Business person   
 
 ---
-### [Fraction.pro](http://www.fraction.pro/) - 2017
+### [Fraction.pro](https://captablemanager.herokuapp.com/) - 2017
 **Description:** A solution developed to track equity holdings in startups across funding rounds. Developed for internal use but can also be used by any other startups or investors.  
 **Tech:**  Ruby on Rails, HTML, CSS  
 **Team:**  Me, 1 Functional expert, 1 Business person    
