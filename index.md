@@ -60,7 +60,7 @@
 **Team:**  Me, 1 Business person  
 
 ---
-### [Timelog (pivoted)](http://timelog.me) - 2019 to Present
+### [Timelog (pivoted)](https://timelog2.herokuapp.com/) - 2019 to Present
 **Description:**  An improved version of Timelog with a slightly different workflow and feature set.  
 **Scale:** Under development. UI/UX design phase.  
 **Tech:**  Ruby on Rails, HTML, CSS, Javascript  
